@@ -76,8 +76,8 @@ Half Adder
     endmodule
 ```
 ```python
-Developed by:Tharshini.M
- RegisterNumber:24900038
+Developed by:Rubasri
+ RegisterNumber:24900054
 ```
 
 **RTL Schematic**
